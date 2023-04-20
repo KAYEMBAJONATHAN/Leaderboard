@@ -56,6 +56,8 @@ Use webpack to bundle JavaScript.
 
 <!-- LIVE DEMO -->
 
+- live link(https://kayembajonathan.github.io/Leaderboard/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,11 +133,6 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 - [ ] ** Create a new game
 - [ ] ** Implement the "Refresh" button
 - [ ] ** Now you should improve the look and feel of the application
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
