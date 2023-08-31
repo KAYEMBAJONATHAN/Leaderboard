@@ -118,7 +118,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 
 
 - GitHub: [@kayembajonathan](https://github.com/KAYEMBAJONATHAN)
-- LinkedIn: [@kayembajonathan](https://www.linkedin.com/in/jonathan-kayemba-b56247236/)
+- LinkedIn: [@kayembajonathan](https://www.linkedin.com/in/jonathan-kayembb56247236/)
 - Twitter: [@JonathanKa97287](@JonathanKa97287)
 
 
